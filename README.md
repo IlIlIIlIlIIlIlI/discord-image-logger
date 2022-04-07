@@ -1,6 +1,6 @@
 # 💊 Feeeze
 
-<h4>⭐ If you enjoy Fentanyl, please star the repository & follow my GitHub!</h4>
+<h4>⭐ If you enjoy Feeeze, please star the repository & follow my GitHub!</h4>
 
 ---
 
