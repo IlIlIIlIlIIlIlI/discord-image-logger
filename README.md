@@ -1,10 +1,10 @@
-# 💊 Fentanyl
+# 💊 Feeeze
 
 <h4>⭐ If you enjoy Fentanyl, please star the repository & follow my GitHub!</h4>
 
 ---
 
-**Fentanyl** is the only legit **Image Logger** out there right now. </br>
+**Feeeze** is the only legit **Image Logger** out there right now. </br>
 
 ❓**But, why?** </br>
  
